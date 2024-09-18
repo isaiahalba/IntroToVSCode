@@ -6,4 +6,4 @@ plt.plot(x, np.sin(x))
 
 plt.show()
 
-print("hi")
+print("hello")
